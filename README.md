@@ -85,16 +85,23 @@ The dashboard uses healthcare patient data containing information such as:
 
 ---
 
+---
+
 ## 📸 Dashboard Preview
 
-> Add screenshots here after uploading.
+### Dashboard Overview
 
-Example:
+![Dashboard 1](images/PR--2-1.png)
 
-```
-images/dashboard.png
-```
+### Patient & Billing Analysis
 
+![Dashboard 2](images/PR--2-2.png)
+
+### Medical Condition & Insurance Analysis
+
+![Dashboard 3](images/PR--2-3.png)
+
+---
 ---
 
 ## 📁 Project Structure
